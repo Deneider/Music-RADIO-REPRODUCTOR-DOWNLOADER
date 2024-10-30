@@ -11,3 +11,6 @@ AND INSTALL THIS IN YOUR COMPUTER.
 	import pygame
 	import yt_dlp  
 	import os
+
+
+3. Change the route of FFMPEG in funcioanlidades.py
