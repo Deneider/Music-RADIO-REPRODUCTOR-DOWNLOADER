@@ -1,0 +1,13 @@
+---------READ ME---------
+
+1.FFMPEG
+https://www.ffmpeg.org/download.html
+
+AND INSTALL THIS IN YOUR COMPUTER.
+
+2. Import in the enviroment
+	import pandas as pd
+	from ytmusicapi import YTMusic
+	import pygame
+	import yt_dlp  
+	import os

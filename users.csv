@@ -1,0 +1,4 @@
+userId,name,password,admin
+1,dneider,123456,True
+2,diegodneider,123456,False
+3,rey,123456,False
