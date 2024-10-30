@@ -29,7 +29,7 @@ def play_song(video_id, title):
 
     ydl_opts = {
         'format': 'bestaudio/best',
-        'ffmpeg_location': 'F:\\2DAM\\Interfaces\\ProyectoMusica\\ffmpeg-7.1-full_build\\bin\\',
+        'ffmpeg_location': 'ffmpeg-7.1-full_build\\bin\\',
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
             'preferredcodec': 'mp3',
